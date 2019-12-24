@@ -44,4 +44,4 @@ I've used [neofetch](https://github.com/dylanaraps/neofetch) to display system s
 ## Post Installation
 
 1. Copy Lilu.kext and WhateverGreen.kext from EFI/Clover/Kexts/Other to Libray/Extensions and reboot.
-2. Use this command in terminal to install drivers for GTX 960. `bash <(curl -s https://vulgo.github.io/webdriver) 387.10.10.10.40.113`
+2. Use this command in terminal to install Nvidia Webdrivers for GTX 960. `bash <(curl -s https://vulgo.github.io/webdriver) 387.10.10.10.40.113`
