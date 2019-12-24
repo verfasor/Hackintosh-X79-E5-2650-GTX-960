@@ -37,7 +37,7 @@ I've used [neofetch](https://github.com/dylanaraps/neofetch) to display system s
 1. Use Clover Configurator (macOS) or DiskGenius (Windows) to mount the EFI folder within USB installer. 
 2. Paste my folder to the EFI partition.
 
-## Prepare motherboard for macOS installtion
+## Prepare motherboard for macOS installation
 
 - Disable Intel® Virtualization Technology (Intel® VT)
 
