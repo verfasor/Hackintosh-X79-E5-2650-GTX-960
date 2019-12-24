@@ -2,7 +2,7 @@
 
 **DISCLAIMER: YOU'RE NOTHING BUT AN A-HOLE IF YOU SELL EFI FOLDER (CONFIG) THAT'S ALREADY AVAILABLE FOR FREE OF COST. DON'T DO THAT.**
 
-## X79/LGA2011 Hackintosh Catalina Clover & Config for E5-2650 & GTX 960.
+## X79/LGA2011 Hackintosh High Sierra EFI for E5-2650 & GTX 960.
 
 Fork or star, it's your call. You need to modify a lot if your system specs are different. I use an Ant Country chinese motherboard. Very similar to Huanan X79. You can refer to this guide if you've a Huanan X79 mobo.
 
